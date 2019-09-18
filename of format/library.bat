@@ -1,0 +1,1 @@
+g++ -o libFileOF.dll ./source/of.cpp -I ./include/ -shared -std=c++11

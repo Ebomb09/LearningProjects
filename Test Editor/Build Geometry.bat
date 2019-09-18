@@ -1,0 +1,1 @@
+g++ -o "./object/geometry.o" -c geometry.cpp -I"./include/" -I"C:/SDL 2 Stable/include/SDL2/" -L"C:/SDL 2 Stable/lib/" -lmingw32 -lSDL2main -lSDL2 -std=c++11 -w

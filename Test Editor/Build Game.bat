@@ -1,0 +1,1 @@
+g++ -o "./Build/Game" main.cpp video.cpp classes.cpp -I"./include/" -I"C:/SDL 2 Stable/include/SDL2/" -L"C:/SDL 2 Stable/lib/" -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -std=c++11 -w

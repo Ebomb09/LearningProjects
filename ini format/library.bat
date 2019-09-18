@@ -1,0 +1,1 @@
+g++ -o libFileINI.dll "source/ini.cpp" -I"include/" -shared -std=c++11
